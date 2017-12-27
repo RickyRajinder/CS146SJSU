@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="sjsu.&lt;Singh&gt;.cs146.project1.zip">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="root">
+      <element id="module-output" name="sjsu.&lt;Singh&gt;.cs146.project1" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/junit-jupiter-api-5.0.0-M5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/plugins/junit/lib/opentest4j-1.0.0-M2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/junit-4.7.jar" path-in-jar="/" />
+      <element id="archive" name="sjsu.Singh.cs146.project1.zip" />
+    </root>
+  </artifact>
+</component>

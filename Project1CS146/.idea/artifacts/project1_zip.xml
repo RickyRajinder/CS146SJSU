@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="project1.zip">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="root">
+      <element id="archive" name="project1.zip">
+        <element id="dir-copy" path="$PROJECT_DIR$" />
+      </element>
+    </root>
+  </artifact>
+</component>
